@@ -1,5 +1,5 @@
 # Python-Custom-Digit-Recognition
-
+# Update License
 You can apply a simple OCR on your own handrwitten digits using this python script.
 I have used OpenCV to pre-process the image and to extract the digits from the picture.
 Using K-Nearest Neighbours (or SVM) as my model - I trained it using my own handwritten data set. I have also included the freely [available](http://yann.lecun.com/exdb/mnist/) MNIST data set so you can experiment on how different datasets work with different handwritings.
